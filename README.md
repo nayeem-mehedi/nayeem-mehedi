@@ -25,16 +25,50 @@ I'm a passionate developer with experience in various programming languages and 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayeem-mehedi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-mehedi&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayeem-mehedi&show_icons=true&theme=catppuccin_latte)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-mehedi&layout=compact&theme=catppuccin_latte)
 
 ## Projects
 
 Although I have extensive experience in Java and cloud technologies, I have yet to do any notable personal projects using those tech stacks.
 
-### E-Commerce Website
-- **Tech Stack**: Next.js, NextAuth, Tailwind CSS, Vercel
-- **Description**: An e-commerce website with authentication and responsive design.
+### Digital Depot
+Digital Depot is an ecommerce website built using Next.js, Prisma, Tailwind CSS, and Daisy UI.
+
+URL: https://demo-ecommerce-shop.vercel.app/
+
+- **Project Overview**: Utilizes Server Actions within Next.js for streamlined form submissions and data mutations.
+- **Authentication**: Done using Auth.js (NextAuth).
+- **Technologies Used**: Next.js, Prisma, Tailwind CSS, Daisy UI, NextAuth
+
+
+### My First Ruby-On-Rails API
+I explored Ruby on Rails to expand beyond my Java backend skills. This project helped me learn its fundamentals.
+
+- **Project Overview**: This is a simple CRUD API about articles. I have also added one endpoint where I called an external API and prepared the response based on that.
+- **Technologies Used**: Ruby on Rails, HTTParty, SQLite3, Puma
+
+
+### React Test Blog
+I originally developed this project back in 2019 when I was learning React for the first time.
+
+- **Technologies Used**: JDK8, Spring Boot, Hibernate, Spring Security, JWT, ReactJS, Redux
+
+
+### ASP-final-project
+A Client-Server file sharing project developed for the Advanced System Programming course.
+
+- **Server Components**:
+  - `serverw24` | `mirror1` | `mirror2`
+    - Handle client commands and provide relevant responses or errors
+    - Support multiple client connections with server-side load balancing
+
+- **Client Components**:
+  - `clientw24`
+    - Connects to the server to send commands and receive responses
+
+- **Technologies Used**: C, Dynamic Memory Allocation (malloc), Socket Communication, Load Balancing, Directory Traversal (nftw), File Manipulation (tar), Signal Handling, File I/O, Date and Time Manipulation (ctime, strptime), Process Management (fork, exec)
+
 
 
 ## Contact Me
@@ -44,3 +78,7 @@ Feel free to reach out to me via email or connect with me on LinkedIn!
 ---
 
 *This portfolio was generated using [GitHub Markdown](https://guides.github.com/features/mastering-markdown/).*
+
+
+
+
