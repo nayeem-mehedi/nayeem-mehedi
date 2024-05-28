@@ -8,8 +8,8 @@ I'm a passionate developer with experience in various programming languages and 
 
 - 📍 Location: Windsor, ON
 - 📧 Email: [nmnaimmahadi@gmail.com](mailto:nmnaimmahadi@gmail.com)
-- 💼 LinkedIn: [LinkedIn Profile]([TEST_LINKEDIN_LINK](https://www.linkedin.com/in/nayeem-mehedi/))
-- 🐙 GitHub: [GitHub Profile]([TEST_GITHUB_LINK](https://github.com/nayeem-mehedi))
+- 💼 LinkedIn: [Md Nayeem Mehedi](https://www.linkedin.com/in/nayeem-mehedi/)
+- 🐙 GitHub: [nayeem-mehedi](https://github.com/nayeem-mehedi)
 
 ## Skills
 
