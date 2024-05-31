@@ -13,12 +13,12 @@ I'm a passionate developer with experience in various programming languages and 
 
 ## Skills
 
-- **Languages**: Java, JavaScript, Python
+- **Languages**: Java, JavaScript, Python, C
 - **Backend**: Spring Boot, Spring Reactive, Spring Data, Hibernate, MyBatis, NodeJS, Express, Prisma
 - **Frontend**: Next.js, React, Tailwind CSS, Bootstrap, Thymeleaf, FreeMarker, HTML, CSS
 - **Databases & Caching**: MySQL, PostgreSQL, MongoDB, Redis, Oracle Coherence
 - **Cloud Platforms**: AWS (S3, DynamoDB, EC2, SNS, SQS, Lambda, MediaConvert), GCP (Cloud Storage)
-- **Testing**: Junit, Mockito, Jest, LocalStack
+- **Testing**: Junit, Mockito, Selenium, JMeter, Spocks, Jest, LocalStack
 - **Build & CI/CD**: Maven, Gradle, Jenkins, GitHub Action, Docker
 - **Web & Application Servers**: Tomcat, PM2
 - **Project Management and Other**: Git, JIRA, Confluence, Figma, Draw.io, Astah
@@ -49,12 +49,6 @@ I explored Ruby on Rails to expand beyond my Java backend skills. This project h
 - **Technologies Used**: Ruby on Rails, HTTParty, SQLite3, Puma
 
 
-### React Test Blog
-I originally developed this project back in 2019 when I was learning React for the first time.
-
-- **Technologies Used**: JDK8, Spring Boot, Hibernate, Spring Security, JWT, ReactJS, Redux
-
-
 ### ASP-final-project
 A Client-Server file sharing project developed for the Advanced System Programming course.
 
@@ -69,6 +63,11 @@ A Client-Server file sharing project developed for the Advanced System Programmi
 
 - **Technologies Used**: C, Dynamic Memory Allocation (malloc), Socket Communication, Load Balancing, Directory Traversal (nftw), File Manipulation (tar), Signal Handling, File I/O, Date and Time Manipulation (ctime, strptime), Process Management (fork, exec)
 
+
+### React Test Blog
+I originally developed this project back in 2019 when I was learning React for the first time.
+
+- **Technologies Used**: JDK8, Spring Boot, Hibernate, Spring Security, JWT, ReactJS, Redux
 
 
 ## Contact Me
